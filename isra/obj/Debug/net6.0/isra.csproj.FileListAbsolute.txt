@@ -1,0 +1,15 @@
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\bin\Debug\net6.0\isra.exe
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\bin\Debug\net6.0\isra.deps.json
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\bin\Debug\net6.0\isra.runtimeconfig.json
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\bin\Debug\net6.0\isra.dll
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\bin\Debug\net6.0\isra.pdb
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\obj\Debug\net6.0\isra.csproj.AssemblyReference.cache
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\obj\Debug\net6.0\isra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\obj\Debug\net6.0\isra.AssemblyInfoInputs.cache
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\obj\Debug\net6.0\isra.AssemblyInfo.cs
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\obj\Debug\net6.0\isra.csproj.CoreCompileInputs.cache
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\obj\Debug\net6.0\isra.dll
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\obj\Debug\net6.0\refint\isra.dll
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\obj\Debug\net6.0\isra.pdb
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\obj\Debug\net6.0\isra.genruntimeconfig.cache
+C:\Users\XSIS User\Batch 319\Logic\logicday1\isra\obj\Debug\net6.0\ref\isra.dll
